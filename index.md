@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+#**欢迎来到Intrue的快乐小家**
 
-You can use the [editor on GitHub](https://github.com/Intrue2/Intrue/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+尽管现在**~~破烂至极~~**有些简陋，但在不断优化中
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+~~这功能完全不是这么用的吧！~~
 
-### Markdown
+![?!#](http://tiebapic.baidu.com/forum/w%3D580/sign=806ae12273d3d539c13d0fcb0a86e927/0d749fd02f2eb938d2d0bb2e90628535e7dd6fc6.jpg?tbpicau=2022-08-19-05_65d0ef49e611d13d9f2d28431a4596f2)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##本网站你将看到：
 
-```markdown
-Syntax highlighted code block
+- ###不知道什么时候更新的一些莫名其妙的一些小玩意
 
-# Header 1
-## Header 2
-### Header 3
+这都是我拿来~~装逼~~练习的内容。
 
-- Bulleted
-- List
+- ###各种不明所以的图片表情用法和非常老年的炫彩字体
 
-1. Numbered
-2. List
+这也是我拿来~~装逼~~练习的内容。`#0969DA`
 
-**Bold** and _Italic_ and `Code` text
+- ###时不时就会被删掉的一些哲学~~♂~~思考
 
-[Link](url) and ![Image](src)
-```
+`理论上不会活过一个星期`
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Intrue2/Intrue/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+测试友情链接：[MC吧站点](https://mcbar.club)
